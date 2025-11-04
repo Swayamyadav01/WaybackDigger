@@ -31,7 +31,7 @@
 1. Clone the repository to your local system:
 
 ```
-git clone https://github.com/shivangmauryaa/WaybackDigger.git
+git clone https://github.com/Swayamyadav01/WaybackDigger.git
 cd WaybackDigger
 ```
 
