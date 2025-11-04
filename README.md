@@ -63,7 +63,7 @@ You can use the script in two ways:
 
 ## Author
 
-- **Name**: Shivang Maurya
-- **GitHub**: [ShivangMaurya](https://github.com/ShivangMaurya)
-- **Email**: shivangmauryaa@gmail.com
+- **Name**: Swayam Yadav
+- **GitHub**: [ShivangMaurya](https://github.com/Swayamyadav01)
+- **Email**: akhandp1484@gmail.com
 
